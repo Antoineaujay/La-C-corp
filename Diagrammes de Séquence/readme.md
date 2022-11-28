@@ -8,4 +8,4 @@ Vers le 3ème :
 https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20S%C3%A9quence/Diagramme_de_sequence_Remplir_les_information_concernant_une_oeuvre.md
 
 Vers le 4ème :
-
+https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20S%C3%A9quence/Diagramme_de_sequences_Se_connecter.md
