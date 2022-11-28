@@ -1,0 +1,11 @@
+Lien vers le 1er diagramme de séquence : 
+https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20S%C3%A9quence/Diaggrame_de_sequences_Modifier_les_informations_concernant_une_oeuvre_.md
+
+Vers le 2ème :
+
+
+Vers le 3ème : 
+
+
+Vers le 4ème :
+
