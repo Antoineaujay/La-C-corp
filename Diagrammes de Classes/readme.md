@@ -8,3 +8,4 @@ Vers le 3ème :
 https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20Classes/Diagramme_de_classes_Remplir_les_information_concernant_une_oeuvre.md
 
 Vers le 4ème : 
+https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20Classes/Diagramme_de_classes_Se_connecter.md
