@@ -34,6 +34,6 @@ Version : 2
 Liens différents readme :
 Scénarios : https://github.com/Antoineaujay/La-C-corp/blob/main/Sc%C3%A9narios/readme.md
 Diagrammes de classe : https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20Classes/readme.md
-Diagramme de séquence : 
-Glossaire + Suivi : 
+Diagramme de séquence : https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20S%C3%A9quence/readme.md
+Glossaire + Suivi : à faire
 
