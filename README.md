@@ -1,6 +1,6 @@
 # La-C-corp
 
-Nom du projet : NuméBook
+## Nom du projet : NuméBook
 
 L'objectif de ce projet est de pouvoir une bibliothèque numérique à gestion décentralisée.
 Le principe est de permettre à chaque membre de numériser les œuvres et aux bibliothécaires de 
