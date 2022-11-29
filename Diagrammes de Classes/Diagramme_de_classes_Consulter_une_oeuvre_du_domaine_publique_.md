@@ -10,7 +10,7 @@ SeConnecter(nom d'utilisateur, MDP)
 
 }
 
-abstract class acceuil {}
+class acceuil {}
 
 protocol UIcontroller {
 
