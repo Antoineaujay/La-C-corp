@@ -9,3 +9,6 @@ https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20Classes/Di
 
 Vers le 4ème : 
 https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20Classes/Diagramme_de_classes_Se_connecter.md
+
+Diagramme de classe général :
+https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20Classes/Diagramme_de_classe_g%C3%A9n%C3%A9ral.md
