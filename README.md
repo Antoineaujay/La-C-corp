@@ -40,5 +40,5 @@ Diagrammes de classe : https://github.com/Antoineaujay/La-C-corp/blob/main/Diagr
 
 Diagramme de séquence : https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20S%C3%A9quence/readme.md
 
-Glossaire + Suivi : à faire
+Glossaire + Suivi : https://github.com/Antoineaujay/La-C-corp/blob/main/Glossaire%20%2B%20Suivi/readme.md
 
