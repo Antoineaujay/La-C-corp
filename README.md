@@ -4,9 +4,7 @@ Nom du projet : NuméBook
 
 L'objectif de ce projet est de pouvoir une bibliothèque numérique à gestion décentralisée.
 Le principe est de permettre à chaque membre de numériser les œuvres et aux bibliothécaires de 
-les proposer à l'emprunt selon deux modalités. Sois des livres qui sont libres de droits et sont donc 
-accessibles à tout le monde du moment que les memebres ont bien asser d'espace sur le disque réservé
-et des oeuvres sous droits qui sont proposées en location pour une période de 2 semaines.
+les proposer à l'emprunt selon deux modalités.
 
 Description :
 Toutes les œuvres du domaine public sont accessibles gratuitement, toutes les œuvres sous droits sont proposées en location pour une période de 2 semaines.
