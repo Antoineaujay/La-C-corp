@@ -14,9 +14,9 @@ Interface application{
 
 }
 
-abstract class acceuil {}
+class acceuil {}
 
-abstract class mes\_oeuvres{}
+class mes\_oeuvres{}
 
 protocol UIcontroller {
 
