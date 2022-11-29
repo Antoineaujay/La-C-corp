@@ -1,4 +1,4 @@
-Lien ver le 1er diagramme de classe : 
+Lien vers le 1er diagramme de classe : 
 https://github.com/Antoineaujay/La-C-corp/blob/main/Diagrammes%20de%20Classes/Diagramme_de_classes_Consulter_une_oeuvre_du_domaine_publique_.md
 
 Vers le 2ème : 
